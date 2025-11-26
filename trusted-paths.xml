@@ -1,0 +1,27 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\Yaakov Davidovici\Desktop\ims-dev" value="true" />
+        <entry key="C:\Users\Yaakov Davidovici\Desktop\ims-dev-4" value="true" />
+        <entry key="C:\Users\Yaakov Davidovici\Desktop\ims-nextgen" value="true" />
+        <entry key="C:\Users\Yaakov Davidovici\Herd\fello-ims" value="true" />
+        <entry key="C:\Users\Yaakov Davidovici\PhpstormProjects\fello-ims" value="true" />
+        <entry key="C:\Users\Yaakov Davidovici\PhpstormProjects\ims-dev" value="true" />
+        <entry key="C:\Users\Yaakov Davidovici\PhpstormProjects\ims-nextgen" value="true" />
+        <entry key="C:\Users\Yaakov Davidovici\PhpstormProjects\ims-nextgen-view" value="true" />
+        <entry key="\\wsl.localhost\Ubuntu\home\aakov_avidovici\coding\ims-nextgen" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Users\Yaakov Davidovici\PhpstormProjects" />
+        <option value="\\wsl.localhost\Ubuntu\home\aakov_avidovici\coding" />
+        <option value="C:\Users\Yaakov Davidovici\Herd" />
+        <option value="C:\Users\Yaakov Davidovici\Desktop" />
+      </list>
+    </option>
+  </component>
+</application>
