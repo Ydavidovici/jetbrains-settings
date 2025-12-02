@@ -27,6 +27,10 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="Console.TableResult.Reload">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="Documentation.Forward">
     <mouse-shortcut keystroke="button5" />
