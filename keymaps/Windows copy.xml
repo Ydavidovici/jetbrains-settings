@@ -8,13 +8,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl delete" />
   </action>
   <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="ctrl alt home" />
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="CloseAllUnmodifiedEditors">
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
   </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl alt end" />
+    <keyboard-shortcut first-keystroke="alt end" />
   </action>
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
@@ -64,6 +64,7 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
   </action>
+  <action id="ShowNavBar" />
   <action id="Terminal.ShowDocumentation">
     <mouse-shortcut keystroke="alt button2" />
   </action>
