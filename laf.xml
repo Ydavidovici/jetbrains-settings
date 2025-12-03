@@ -2,7 +2,7 @@
   <component name="LafManager">
     <laf themeId="MOONLIGHT" />
     <lafs-to-previous-schemes>
-      <laf-to-scheme laf="DRACULA" scheme="_@user_Moonlight (Material)" />
+      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Night Owl (Material)" />
     </lafs-to-previous-schemes>
   </component>
 </application>

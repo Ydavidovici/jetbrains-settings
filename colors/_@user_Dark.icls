@@ -7,20 +7,20 @@
     <property name="pluginId">com.intellij</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="859900" />
-    <option name="FILESTATUS_DELETED" value="B58900" />
-    <option name="FILESTATUS_HIJACKED" value="D33682" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="B58900" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="CB4B16" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="CB4B16" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="CB4B16" />
-    <option name="FILESTATUS_MERGED" value="6C71C4" />
-    <option name="FILESTATUS_MODIFIED" value="2AA198" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268BD2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="268BD2" />
-    <option name="FILESTATUS_OBSOLETE" value="B58900" />
-    <option name="FILESTATUS_SUPPRESSED" value="546E7A" />
-    <option name="FILESTATUS_SWITCHED" value="268BD2" />
-    <option name="FILESTATUS_UNKNOWN" value="D33682" />
+    <option name="FILESTATUS_ADDED" value="7AF8CA" />
+    <option name="FILESTATUS_DELETED" value="FF5370" />
+    <option name="FILESTATUS_HIJACKED" value="BAACFF" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7F85A3" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="FFDB8E" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FFDB8E" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FFDB8E" />
+    <option name="FILESTATUS_MERGED" value="70B0FF" />
+    <option name="FILESTATUS_MODIFIED" value="34D3FB" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="34D3FB" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="34D3FB" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_SUPPRESSED" value="BCC4D6" />
+    <option name="FILESTATUS_SWITCHED" value="BAACFF" />
+    <option name="FILESTATUS_UNKNOWN" value="7AF8CA" />
   </colors>
 </scheme>
