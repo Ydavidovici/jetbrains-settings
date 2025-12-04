@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager">
-    <laf themeId="DRACULA" />
+    <laf themeId="SOLARIZED_DARK" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Solarized Dark" />
       <laf-to-scheme laf="OCEANIC" scheme="_@user_Moonlight (Material)" />

@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="ff79c5" />
+        <option name="accentColorHex" value="d33682" />
       </MTAccentConfigState>
     </option>
     <option name="favoriteThemesState">
@@ -189,6 +189,21 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
+            <entry key="dinbtechit-2179230b863b9b1d9f1eeb27ca4a3a70">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="dinbtechit-7ef0c378d737e162955f3e028dcf9ccb">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="dinbtechit-e4968811e8c127f591d7e670706d4a3c">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
           </map>
         </option>
       </MTFavoriteThemesConfigState>
@@ -201,7 +216,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="DRACULA" />
+        <option name="selectedThemeName" value="SOLARIZED_DARK" />
       </MTThemeConfigState>
     </option>
   </component>
