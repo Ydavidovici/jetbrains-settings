@@ -2,7 +2,9 @@
   <component name="LafManager">
     <laf themeId="NIGHT_OWL" />
     <lafs-to-previous-schemes>
+      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Solarized Dark" />
       <laf-to-scheme laf="OCEANIC" scheme="_@user_Moonlight (Material)" />
+      <laf-to-scheme laf="SOLARIZED_DARK" scheme="_@user_Night Owl (Material)" />
     </lafs-to-previous-schemes>
   </component>
 </application>
