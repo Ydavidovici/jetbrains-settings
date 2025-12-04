@@ -24,21 +24,19 @@
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
-  <colors>
-    <option name="FILESTATUS_ADDED" value="91B859" />
-    <option name="FILESTATUS_DELETED" value="808080" />
-    <option name="FILESTATUS_HIJACKED" value="FFB62C" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="AB7967" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="D5756C" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="D5756C" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="D5756C" />
-    <option name="FILESTATUS_MERGED" value="945EB8" />
-    <option name="FILESTATUS_MODIFIED" value="39ADB5" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="39ADB5" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="39ADB5" />
-    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
-    <option name="FILESTATUS_SUPPRESSED" value="87A7AB" />
-    <option name="FILESTATUS_SWITCHED" value="945EB8" />
-    <option name="FILESTATUS_UNKNOWN" value="F77669" />
-  </colors>
+  <attributes>
+    <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="666b87" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="cccccc" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
