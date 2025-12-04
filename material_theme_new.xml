@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="7e57c2" />
+        <option name="accentColorHex" value="d33682" />
       </MTAccentConfigState>
     </option>
     <option name="favoriteThemesState">
@@ -216,7 +216,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="NIGHT_OWL" />
+        <option name="selectedThemeName" value="SOLARIZED_DARK" />
       </MTThemeConfigState>
     </option>
   </component>
