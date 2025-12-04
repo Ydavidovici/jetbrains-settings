@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="&lt;con&gt;" value="console.log(&quot;&quot;,)" description="console log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
