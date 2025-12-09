@@ -28,13 +28,4 @@
     <option name="FILESTATUS_SWITCHED" value="C792EA" />
     <option name="FILESTATUS_UNKNOWN" value="F77669" />
   </colors>
-  <attributes>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffe400" />
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
