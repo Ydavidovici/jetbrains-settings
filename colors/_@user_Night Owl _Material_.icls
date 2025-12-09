@@ -26,5 +26,33 @@
   </console-font>
   <colors>
     <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="INDENT_GUIDE" value="" />
+    <option name="SELECTED_INDENT_GUIDE" value="" />
+    <option name="VISUAL_INDENT_GUIDE" value="" />
   </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1_DERIVED">
+      <value />
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_DERIVED">
+      <value />
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_DERIVED">
+      <value />
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_DERIVED">
+      <value />
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5_DERIVED">
+      <value />
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6_DERIVED">
+      <value>
+        <option name="FOREGROUND" value="11627" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR_DERIVED">
+      <value />
+    </option>
+  </attributes>
 </scheme>
