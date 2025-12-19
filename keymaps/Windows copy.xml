@@ -1,4 +1,7 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateCMakeToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="ClickLink">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -118,4 +121,5 @@
   </action>
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
