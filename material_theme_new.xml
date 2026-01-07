@@ -229,16 +229,6 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
-            <entry key="Many Islands Dark">
-              <value>
-                <MTFavoriteTheme />
-              </value>
-            </entry>
-            <entry key="Many Islands Light">
-              <value>
-                <MTFavoriteTheme />
-              </value>
-            </entry>
             <entry key="NIGHT_OWL">
               <value>
                 <MTFavoriteTheme />
@@ -255,16 +245,6 @@
               </value>
             </entry>
             <entry key="ONE_LIGHT">
-              <value>
-                <MTFavoriteTheme />
-              </value>
-            </entry>
-            <entry key="One Island Dark">
-              <value>
-                <MTFavoriteTheme />
-              </value>
-            </entry>
-            <entry key="One Island Light">
               <value>
                 <MTFavoriteTheme />
               </value>
@@ -365,16 +345,9 @@
     </option>
     <option name="metadata">
       <MTMetadataState>
-        <option name="pristineConfig" value="false" />
-        <option name="userId" value="-4cb27570:1993f13d157:-8000" />
+        <option name="userId" value="5e81a24c:19b9622a563:-8000" />
         <option name="version" value="10.7.0" />
       </MTMetadataState>
-    </option>
-    <option name="otherTweaksState">
-      <MTOtherTweaksConfigState>
-        <option name="showWhatsNew" value="false" />
-        <option name="showWizardOnWelcome" value="false" />
-      </MTOtherTweaksConfigState>
     </option>
     <option name="themeState">
       <MTThemeConfigState>
