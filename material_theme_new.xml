@@ -124,6 +124,26 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
+            <entry key="71b26d33-3d44-42f4-8166-31b17c762b32">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="7c3d4e5f-6789-abcd-ef01-234567890abc">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="8b2c3d4e-5f67-89ab-cdef-012345678901">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="9a1b2c3d-4e5f-6789-abcd-ef0123456789">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
             <entry key="ARC_DARK">
               <value>
                 <MTFavoriteTheme />
@@ -289,6 +309,11 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
+            <entry key="a109ba15-600a-476f-b7cc-46d832daba9d">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
             <entry key="dinbtechit-2179230b863b9b1d9f1eeb27ca4a3a70">
               <value>
                 <MTFavoriteTheme />
@@ -334,7 +359,22 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
+            <entry key="islandsGerryOceanic">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="islandsGerryStorm">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
             <entry key="islandsGerryViolet">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="islandsGerryVioletLight">
               <value>
                 <MTFavoriteTheme />
               </value>
@@ -346,7 +386,7 @@
     <option name="metadata">
       <MTMetadataState>
         <option name="userId" value="5e81a24c:19b9622a563:-8000" />
-        <option name="version" value="10.7.0" />
+        <option name="version" value="10.8.0" />
         <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>
