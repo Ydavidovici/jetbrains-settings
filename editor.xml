@@ -6,8 +6,8 @@
       </set>
     </option>
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
+  <component name="EditorSettings">
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
