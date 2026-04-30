@@ -4,7 +4,7 @@
     <option name="enableRainbowVariables" value="true" />
     <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="suppressAdvancedIndentGuidesBanner" value="true" />
-    <option name="suppressLicenseBanner" value="true" />
-    <option name="version" value="2025.3.8" />
+    <option name="suppressRainbowifyCMacroKeywords" value="true" />
+    <option name="version" value="2025.3.9" />
   </component>
 </application>
