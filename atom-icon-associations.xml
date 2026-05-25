@@ -1,0 +1,24 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFolderAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER" />
+        <option name="associationsList">
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(benchmarks?|measures?|perf|performances?|hprof|profilers?)$" />
+            <option name="pattern" value="^[\._]?(benchmarks?|measures?|perf|performances?|hprof|profilers?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Benchmark" />
+            <option name="icon" value="/benchmark.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="009688" />
+            <option name="folderIconColor" value="B2DFDB" />
+            <option name="iconPack" />
+          </RegexAssociation>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>
