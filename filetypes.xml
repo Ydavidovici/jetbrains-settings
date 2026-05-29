@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping pattern="*.sarif*.json" type="SARIF" />
       <mapping pattern="*.sarif.json" type="SARIF" />
       <removed_mapping ext="cql" approved="true" type="CassandraQL" />
