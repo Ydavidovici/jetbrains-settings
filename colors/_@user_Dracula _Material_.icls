@@ -25,15 +25,30 @@
     <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <attributes>
-    <option name="KOTLIN_LABEL">
+    <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="bd93f9" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="50fa7b" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="4fd6be" />
+      </value>
+    </option>
+    <option name="JS.STATIC_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="bd93f9" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
