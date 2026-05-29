@@ -4,6 +4,8 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping pattern="*.sarif*.json" type="SARIF" />
       <mapping pattern="*.sarif.json" type="SARIF" />
+      <removed_mapping ext="bin" type="binary" />
+      <removed_mapping ext="bin" approved="true" type="Binary File (BIN)" />
       <removed_mapping ext="cql" approved="true" type="CassandraQL" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
