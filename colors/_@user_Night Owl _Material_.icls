@@ -1,8 +1,8 @@
 <scheme name="_@user_Night Owl (Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2025.2.2.0.0</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2025.3.3.0.0</property>
     <property name="originalScheme">Night Owl (Material)</property>
     <property name="partialSave">true</property>
     <property name="pluginId">com.chrisrm.idea.MaterialThemeUI</property>
@@ -25,48 +25,6 @@
     <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <colors>
-    <option name="FILESTATUS_ADDED" value="7AF8CA" />
-    <option name="FILESTATUS_DELETED" value="FF5370" />
-    <option name="FILESTATUS_HIJACKED" value="BAACFF" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7F85A3" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="FFDB8E" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FFDB8E" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FFDB8E" />
-    <option name="FILESTATUS_MERGED" value="70B0FF" />
-    <option name="FILESTATUS_MODIFIED" value="34D3FB" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="34D3FB" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="34D3FB" />
     <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
-    <option name="FILESTATUS_SUPPRESSED" value="BCC4D6" />
-    <option name="FILESTATUS_SWITCHED" value="BAACFF" />
-    <option name="FILESTATUS_UNKNOWN" value="7AF8CA" />
-    <option name="INDENT_GUIDE" value="" />
-    <option name="SELECTED_INDENT_GUIDE" value="" />
-    <option name="VISUAL_INDENT_GUIDE" value="" />
   </colors>
-  <attributes>
-    <option name="INDENT_RAINBOW_COLOR_1_DERIVED">
-      <value />
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_2_DERIVED">
-      <value />
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_3_DERIVED">
-      <value />
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_4_DERIVED">
-      <value />
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_5_DERIVED">
-      <value />
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_6_DERIVED">
-      <value>
-        <option name="FOREGROUND" value="11627" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_ERROR_DERIVED">
-      <value />
-    </option>
-  </attributes>
 </scheme>
