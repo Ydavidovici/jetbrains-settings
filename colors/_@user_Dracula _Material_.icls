@@ -185,5 +185,10 @@
         <option name="FOREGROUND" value="FF1493" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="FFFFFF" />
+      </value>
+    </option>
   </attributes>
 </scheme>
