@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="dss" id="862fb824-1fef-42cc-b692-5171b117baeb" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="45.55.161.47" id="a1c6961f-06d2-485c-a3f0-147bdfa794b8" keyPath="C:\Users\Owner\.ssh\id_dss" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
