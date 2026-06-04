@@ -170,5 +170,15 @@
         <option name="FOREGROUND" value="50FA7B" />
       </value>
     </option>
+    <option name="PHP_INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="FF1493" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="FF1493" />
+      </value>
+    </option>
   </attributes>
 </scheme>
