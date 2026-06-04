@@ -6,4 +6,15 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="clo" value="console.log('$TITLE$', $VALUE$)" description="console.log with title and value" toReformat="true" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JavaScript" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
