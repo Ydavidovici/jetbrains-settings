@@ -80,6 +80,20 @@
         <option name="FOREGROUND" value="1de9b6" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="ff79c6" />
@@ -98,6 +112,11 @@
     <option name="PHP_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e8238c" />
+      </value>
+    </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
