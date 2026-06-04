@@ -12,7 +12,4 @@
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
   </component>
-  <component name="JSEditorOptions">
-    <option name="CONVERT_HTML_TO_REACT" value="false" />
-  </component>
 </application>
