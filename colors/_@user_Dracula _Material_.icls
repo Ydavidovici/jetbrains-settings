@@ -24,31 +24,28 @@
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="7AF8CA" />
+    <option name="FILESTATUS_DELETED" value="FF5370" />
+    <option name="FILESTATUS_HIJACKED" value="BAACFF" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7F85A3" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="FFDB8E" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FFDB8E" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FFDB8E" />
+    <option name="FILESTATUS_MERGED" value="70B0FF" />
+    <option name="FILESTATUS_MODIFIED" value="34D3FB" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="34D3FB" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="34D3FB" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_SUPPRESSED" value="BCC4D6" />
+    <option name="FILESTATUS_SWITCHED" value="BAACFF" />
+    <option name="FILESTATUS_UNKNOWN" value="7AF8CA" />
+  </colors>
   <attributes>
-    <option name="JS.GLOBAL_VARIABLE">
+    <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="50fa7b" />
-      </value>
-    </option>
-    <option name="JS.INSTANCE_MEMBER_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="bd93f9" />
-      </value>
-    </option>
-    <option name="JS.LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="44b45c" />
-      </value>
-    </option>
-    <option name="JS.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="4fd6be" />
-      </value>
-    </option>
-    <option name="JS.STATIC_MEMBER_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="bd93f9" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
