@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="7e57c2" />
+        <option name="accentColorHex" value="84ffff" />
       </MTAccentConfigState>
     </option>
     <option name="favoriteThemesState">
@@ -189,6 +189,11 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
+            <entry key="Islands Darcula">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
             <entry key="Islands Dark">
               <value>
                 <MTFavoriteTheme />
@@ -367,7 +372,7 @@
       <MTMetadataState>
         <option name="pristineConfig" value="false" />
         <option name="userId" value="-4cb27570:1993f13d157:-8000" />
-        <option name="version" value="10.7.0" />
+        <option name="version" value="11.1.0" />
         <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>
@@ -379,7 +384,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="NIGHT_OWL" />
+        <option name="selectedThemeName" value="DEEPOCEAN" />
       </MTThemeConfigState>
     </option>
   </component>
