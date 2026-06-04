@@ -55,6 +55,11 @@
         <option name="FOREGROUND" value="d6acff" />
       </value>
     </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="e8238c" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="d6acff" />
@@ -67,7 +72,7 @@
     </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffb86c" />
+        <option name="FOREGROUND" value="87070" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
