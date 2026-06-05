@@ -13,7 +13,6 @@
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
       <option name="Vue" value="true" />
-      <option name="JSX_HTML" value="true" />
       <option name="XML" value="true" />
     </context>
   </template>
