@@ -51,6 +51,54 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(ll|clang-format)$" />
+            <option name="pattern" value=".*\.(ll|clang-format)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="LLVM" />
+            <option name="icon" value="/icons/files/llvm.svg" />
+            <option name="iconColor" value="93012c" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(nano(rc)?)$" />
+            <option name="pattern" value=".*\.(nano(rc)?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Nano" />
+            <option name="icon" value="/icons/files/nano.svg" />
+            <option name="iconColor" value="AB47BC" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(powershell|ps1|psd1|psc1|psm1|ps1xml|pssc|cmd)$" />
+            <option name="pattern" value=".*\.(powershell|ps1|psd1|psc1|psm1|ps1xml|pssc|cmd)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="PowerShell" />
+            <option name="icon" value="/icons/files/powershell.svg" />
+            <option name="iconColor" value="497CE3" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="(\.|_|^)tmux\.conf$" />
+            <option name="pattern" value="(\.|_|^)tmux\.conf$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Tmux" />
+            <option name="icon" value="/icons/files/tmux.svg" />
+            <option name="iconColor" value="81C784" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -95,6 +143,32 @@
             <option name="iconColor" />
             <option name="folderColor" value="FF8F00" />
             <option name="folderIconColor" value="ffecb3" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(syntax|syntaxes|spellcheck|grammars?|dicts?|dictionar(y|ies))$" />
+            <option name="pattern" value="^[\._]?(syntax|syntaxes|spellcheck|grammars?|dicts?|dictionar(y|ies))$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Syntax" />
+            <option name="icon" value="/syntax.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="ef5350" />
+            <option name="folderIconColor" value="FFCDD2" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?vim$" />
+            <option name="pattern" value="^[\._]?vim$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Vim" />
+            <option name="icon" value="/vim.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="6AAB20" />
+            <option name="folderIconColor" value="F0F4C3" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>
