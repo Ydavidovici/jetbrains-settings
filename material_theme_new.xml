@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="7e57c2" />
+        <option name="accentColorHex" value="ff79c5" />
       </MTAccentConfigState>
     </option>
     <option name="favoriteThemesState">
@@ -176,7 +176,7 @@
     <option name="metadata">
       <MTMetadataState>
         <option name="userId" value="534140cf:19d2aa8847a:-8000" />
-        <option name="version" value="10.10.0" />
+        <option name="version" value="11.1.0" />
       </MTMetadataState>
     </option>
     <option name="themeState">
