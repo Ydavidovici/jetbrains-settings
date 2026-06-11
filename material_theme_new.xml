@@ -69,11 +69,6 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
-            <entry key="Islands Darcula">
-              <value>
-                <MTFavoriteTheme />
-              </value>
-            </entry>
             <entry key="Islands Dark">
               <value>
                 <MTFavoriteTheme />
@@ -114,16 +109,6 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
-            <entry key="Many Islands Dark">
-              <value>
-                <MTFavoriteTheme />
-              </value>
-            </entry>
-            <entry key="Many Islands Light">
-              <value>
-                <MTFavoriteTheme />
-              </value>
-            </entry>
             <entry key="NIGHT_OWL">
               <value>
                 <MTFavoriteTheme />
@@ -140,16 +125,6 @@
               </value>
             </entry>
             <entry key="ONE_LIGHT">
-              <value>
-                <MTFavoriteTheme />
-              </value>
-            </entry>
-            <entry key="One Island Dark">
-              <value>
-                <MTFavoriteTheme />
-              </value>
-            </entry>
-            <entry key="One Island Light">
               <value>
                 <MTFavoriteTheme />
               </value>
@@ -200,14 +175,13 @@
     </option>
     <option name="metadata">
       <MTMetadataState>
-        <option name="userId" value="-658897b0:197bbabeee2:-8000" />
+        <option name="userId" value="534140cf:19d2aa8847a:-8000" />
         <option name="version" value="10.10.0" />
-        <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="NIGHT_OWL" />
+        <option name="selectedThemeName" value="DRACULA" />
       </MTThemeConfigState>
     </option>
   </component>

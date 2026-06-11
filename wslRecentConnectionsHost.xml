@@ -1,9 +1,0 @@
-<application>
-  <component name="WslHostStorage">
-    <option name="configIds">
-      <list>
-        <option value="Ubuntu" />
-      </list>
-    </option>
-  </component>
-</application>
