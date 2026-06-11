@@ -209,6 +209,54 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.firebaserc$" />
+            <option name="pattern" value=".*\.firebaserc$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="FirebaseRC" />
+            <option name="icon" value="/icons/files/firebaserc.svg" />
+            <option name="iconColor" value="fcca3f" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^firestore\.(indexes\.json|rules)$" />
+            <option name="pattern" value="^firestore\.(indexes\.json|rules)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Firestore" />
+            <option name="icon" value="/icons/files/firestore.svg" />
+            <option name="iconColor" value="FF8A65" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^firebase\.json$" />
+            <option name="pattern" value="^firebase\.json$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Firebase" />
+            <option name="icon" value="/icons/files/firebase.svg" />
+            <option name="iconColor" value="fcca3f" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.rules$" />
+            <option name="pattern" value=".*\.rules$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Prometheus" />
+            <option name="icon" value="/icons/files/prometheus.svg" />
+            <option name="iconColor" value="e6522c" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -344,6 +392,32 @@
             <option name="iconColor" />
             <option name="folderColor" value="ec407a" />
             <option name="folderIconColor" value="f8bbd0" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(bin|core|support|io|binary)$" />
+            <option name="pattern" value="^[\._]?(bin|core|support|io|binary)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Core" />
+            <option name="icon" value="/core.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="4DB6AC" />
+            <option name="folderIconColor" value="E0F2F1" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?cypress$" />
+            <option name="pattern" value="^[\._]?cypress$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Cypress" />
+            <option name="icon" value="/cypress.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="78909C" />
+            <option name="folderIconColor" value="616161" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>
