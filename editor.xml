@@ -1,13 +1,18 @@
 <application>
   <component name="CodeVisionSettings">
-    <option name="disabledCodeVisionProviderIds">
-      <set>
-        <option value="vcs.code.vision" />
-      </set>
-    </option>
+    <option name="defaultPosition" value="Right" />
   </component>
-  <component name="EditorSettings">
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="js.chain.hints" value="true" />
+        <entry key="js.type.hints" value="true" />
+        <entry key="qodana.yaml.inspection.descriptions" value="true" />
+        <entry key="ts.chain.hints" value="true" />
+        <entry key="ts.enum.hints" value="true" />
+        <entry key="ts.type.hints" value="true" />
+      </map>
+    </option>
   </component>
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
