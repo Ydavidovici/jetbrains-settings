@@ -1,5 +1,5 @@
 <application>
   <component name="LafManager">
-    <laf themeId="NIGHT_OWL" />
+    <laf themeId="DRACULA" />
   </component>
 </application>
