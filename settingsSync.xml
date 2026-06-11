@@ -1,22 +1,5 @@
 <application>
   <component name="SettingsSyncSettings">
-    <option name="disabledSubcategories">
-      <map>
-        <entry key="PLUGINS">
-          <value>
-            <list>
-              <option value="IdeaVIM" />
-              <option value="com.albertoventurini.jetbrains.graphdbplugin" />
-              <option value="com.intellij.apacheConfig" />
-              <option value="com.shuzijun.markdown-editor" />
-              <option value="indent-rainbow.indent-rainbow" />
-              <option value="jones.restarteslintaction.restart-eslint-action" />
-              <option value="mobi.hsz.idea.gitignore" />
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="migrationFromOldStorageChecked" value="true" />
   </component>
 </application>

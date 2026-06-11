@@ -2,7 +2,7 @@
   <component name="IgnoredPluginSuggestions">
     <option name="pluginIds">
       <list>
-        <option value="Pythonid" />
+        <option value="com.intellij.aqua" />
       </list>
     </option>
   </component>
