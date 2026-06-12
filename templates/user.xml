@@ -1,12 +1,10 @@
 <templateSet group="user">
-  <template name="&lt;con&gt;" value="console.log(&quot;&quot;,)" description="console log" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;con&gt;" value="var_dump(&quot;&quot;);" description="var_dump" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="TypeScript" value="true" />
-      <option name="Vue" value="true" />
-      <option name="XML" value="true" />
+      <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="clo" value="console.log('$TITLE$', $VALUE$)" description="console.log with title and value" toReformat="true" toShortenFQNames="true">
+  <template name="clo" value="var_dump('$TITLE$', $VALUE$);" description="var_dump with title and value" toReformat="true" toShortenFQNames="true">
     <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -14,6 +12,7 @@
       <option name="TypeScript" value="true" />
       <option name="Vue" value="true" />
       <option name="XML" value="true" />
+      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
