@@ -209,6 +209,30 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(xls[mxb]?|xlm|xlt[mx]?|xlam?|odx)$" />
+            <option name="pattern" value=".*\.(xls[mxb]?|xlm|xlt[mx]?|xlam?|odx)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Excel" />
+            <option name="icon" value="/icons/files/excel.svg" />
+            <option name="iconColor" value="6AAB20" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(mod|def)$" />
+            <option name="pattern" value=".*\.(mod|def)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Modula 2" />
+            <option name="icon" value="/icons/files/modula2.svg" />
+            <option name="iconColor" value="990705" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -344,6 +368,19 @@
             <option name="iconColor" />
             <option name="folderColor" value="ec407a" />
             <option name="folderIconColor" value="f8bbd0" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(excludes?|external|outputs?|exports?|exported)$" />
+            <option name="pattern" value="^[\._]?(excludes?|external|outputs?|exports?|exported)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Exclude" />
+            <option name="icon" value="/exclude.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="ff8a65" />
+            <option name="folderIconColor" value="fbe9e7" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>
