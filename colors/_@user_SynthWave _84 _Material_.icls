@@ -29,11 +29,6 @@
     <option name="FILESTATUS_UNKNOWN" value="999999" />
   </colors>
   <attributes>
-    <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="34294f" />
