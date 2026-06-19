@@ -9,10 +9,10 @@
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="PHP" value="true" />
       <option name="TypeScript" value="true" />
       <option name="Vue" value="true" />
       <option name="XML" value="true" />
+      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
