@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="7e57c2" />
+        <option name="accentColorHex" value="f92aad" />
       </MTAccentConfigState>
     </option>
     <option name="favoriteThemesState">
@@ -181,7 +181,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="DRACULA" />
+        <option name="selectedThemeName" value="SYNTHWAVE" />
       </MTThemeConfigState>
     </option>
   </component>
