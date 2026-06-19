@@ -196,6 +196,18 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(pawn|pwn|pgn|fen|amx)$" />
+            <option name="pattern" value=".*\.(pawn|pwn|pgn|fen|amx)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Pawn" />
+            <option name="icon" value="/icons/files/pawn.svg" />
+            <option name="iconColor" value="cca171" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -500,6 +512,19 @@
             <option name="iconColor" />
             <option name="folderColor" value="ec407a" />
             <option name="folderIconColor" value="f8bbd0" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(benchmarks?|measures?|perf|performances?|hprof|profilers?)$" />
+            <option name="pattern" value="^[\._]?(benchmarks?|measures?|perf|performances?|hprof|profilers?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Benchmark" />
+            <option name="icon" value="/benchmark.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="009688" />
+            <option name="folderIconColor" value="B2DFDB" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>
