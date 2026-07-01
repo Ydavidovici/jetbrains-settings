@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="f92aad" />
+        <option name="accentColorHex" value="74a0f1" />
       </MTAccentConfigState>
     </option>
     <option name="favoriteThemesState">
@@ -186,7 +186,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="SYNTHWAVE" />
+        <option name="selectedThemeName" value="MOONLIGHT" />
       </MTThemeConfigState>
     </option>
   </component>
