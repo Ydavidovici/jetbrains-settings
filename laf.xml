@@ -4,10 +4,10 @@
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Solarized Dark" />
       <laf-to-scheme laf="Islands Dark" scheme="_@user_Night Owl (Material)" />
+      <laf-to-scheme laf="MOONLIGHT" scheme="_@user_SynthWave '84 (Material)" />
       <laf-to-scheme laf="NIGHT_OWL" scheme="_@user_Dracula (Material)" />
       <laf-to-scheme laf="OCEANIC" scheme="_@user_Moonlight (Material)" />
       <laf-to-scheme laf="SOLARIZED_DARK" scheme="_@user_Night Owl (Material)" />
-      <laf-to-scheme laf="SYNTHWAVE" scheme="_@user_Dracula (Material)" />
     </lafs-to-previous-schemes>
   </component>
 </application>
