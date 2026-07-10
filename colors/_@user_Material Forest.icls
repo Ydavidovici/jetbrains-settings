@@ -25,10 +25,41 @@
     <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <colors>
-    <option name="FILESTATUS_MODIFIED" value="80CBC4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80CBC4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80CBC4" />
+    <option name="FILESTATUS_ADDED" value="7AF8CA" />
+    <option name="FILESTATUS_DELETED" value="FF5370" />
+    <option name="FILESTATUS_HIJACKED" value="BAACFF" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7F85A3" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="FFDB8E" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FFDB8E" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FFDB8E" />
+    <option name="FILESTATUS_MERGED" value="70B0FF" />
+    <option name="FILESTATUS_MODIFIED" value="34D3FB" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="34D3FB" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="34D3FB" />
     <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
-    <option name="FILESTATUS_SUPPRESSED" value="546E7A" />
+    <option name="FILESTATUS_SUPPRESSED" value="BCC4D6" />
+    <option name="FILESTATUS_SWITCHED" value="BAACFF" />
+    <option name="FILESTATUS_UNKNOWN" value="7AF8CA" />
   </colors>
+  <attributes>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FOREGROUND" value="c3d3de" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3838" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffcc00" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
