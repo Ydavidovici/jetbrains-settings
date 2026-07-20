@@ -33,12 +33,28 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FC9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FC9867" />
     <option name="FILESTATUS_MERGED" value="C792EA" />
-    <option name="FILESTATUS_MODIFIED" value="80CBC4" />
+    <option name="FILESTATUS_MODIFIED" value="FFCC80" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80CBC4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80CBC4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="FFCC80" />
     <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
-    <option name="FILESTATUS_SUPPRESSED" value="546E7A" />
+    <option name="FILESTATUS_SUPPRESSED" value="005454" />
     <option name="FILESTATUS_SWITCHED" value="C792EA" />
     <option name="FILESTATUS_UNKNOWN" value="F77669" />
   </colors>
+  <attributes>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FOREGROUND" value="79b8ff" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="1c6569" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
